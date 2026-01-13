@@ -4,6 +4,12 @@
 
 Scanner is a modern receipt scanning and parsing application that combines iOS native development with AI-powered document processing. The app allows users to capture receipts with their device camera, extract text using optical character recognition (OCR), and parse the information into structured data including item names, prices, tax, and totals.
 
+## Demo
+
+https://github.com/user-attachments/assets/V1-scanner.mp4
+
+*The video demonstrates the full receipt scanning workflow: capturing a receipt with the camera, OCR text extraction, and parsing structured data.*
+
 ## Features
 
 ### iOS App
